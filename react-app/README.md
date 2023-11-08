@@ -8,7 +8,7 @@ This project was created to help represent a fundamental app written with React.
 
 1. Enter the name of your new repository as _my-static-web-app_
 
-1. Clone your new repository
+1. Clone your new repository 
 
    ```bash
    git clone https://github.com/your-github-organization/my-static-web-app
@@ -57,3 +57,5 @@ This project was created to help represent a fundamental app written with React.
 - [Debugging Angular in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=mslearn_staticwebapp-github-jopapa)
 - [Debugging React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial?wt.mc_id=mslearn_staticwebapp-github-jopapa)
 - [Debugging Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?wt.mc_id=mslearn_staticwebapp-github-jopapa)
+
+test
